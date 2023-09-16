@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.body {
+  background: linear-gradient(122deg, rgba(3,0,41,1) 0%, rgba(29,28,36,1) 100%);;
+}
